@@ -1,1 +1,1 @@
-# Introduction_to_Bioinformatics
+# Introduction to Bioinformatics
