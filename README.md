@@ -1,3 +1,3 @@
 # Gene Expression Analysis in Leukemia Patients using Golub Dataset
 
-In this repository, the gene expression values from 3051 genes taken from 38 Leukemia patients have examined using the Golub dataset.
+In this repository, we explore gene expression data from 3051 genes collected from 38 leukemia patients using the Golub dataset. All analysis and visualizations were conducted in R.
